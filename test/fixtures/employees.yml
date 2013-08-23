@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  pan_number: MyString
+  fav_cities: MyText
+  type: 
+
+two:
+  name: MyString
+  pan_number: MyString
+  fav_cities: MyText
+  type: 
